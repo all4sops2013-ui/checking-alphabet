@@ -16,4 +16,17 @@ g=5
 (d+e+f)//g
 print("all done")
 
+
+
+
+
+a=45
+b=6
+
+if a % b == 0:
+   print("it's divisible")
+
+else:
+   print("its not divisible")
+   
  
