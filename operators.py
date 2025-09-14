@@ -28,5 +28,27 @@ if a % b == 0:
 
 else:
    print("its not divisible")
-   
+
+
+
+
+a=12
+b=14
+c=17 
+d=90
+e=21
+
+sum=a+b+c+d+e
+
+avg=((sum-17)+37)/5
+print(avg)
+
+if avg>90 and avg<100:
+   print("grade A")
+elif avg>70 and avg<90:
+   print("grade B")
+elif avg>60 and avg<70:
+   print("grade C")
+else:
+   print("Fail but dont worry you can try again next time")
  
