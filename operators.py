@@ -51,4 +51,28 @@ elif avg>60 and avg<70:
    print("grade C")
 else:
    print("Fail but dont worry you can try again next time")
+
+
+
+
+a=60
+b=65
+c=70
+
+avg=(a+b+c)/3
+if a>avg:
+   print("a is faster")
+else:
+   print("not the fastest")
+
+if b>avg:
+   print("b is faster")
+else:
+   print("not the fastest")
+
+if c>avg:
+   print("c is faster")
+else:
+   print("not the fastest")
+
  
